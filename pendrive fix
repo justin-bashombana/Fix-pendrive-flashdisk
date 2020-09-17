@@ -1,0 +1,12 @@
+    open "CMD" from the start.
+
+    type "diskpart" press enter.
+
+    type "list disk" press enter.
+
+    type "select disk " " <--(selected number, put your pendrive/flash disk number) without brackets, eg select disk 1 then press enter.
+
+    type "clean" press enter.
+
+Now go to disk manager right-click the unallocated space on pendrive disk and create new partition 
+
